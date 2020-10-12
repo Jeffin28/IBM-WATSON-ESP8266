@@ -38,7 +38,7 @@ in `ibm.cpp`:
 * After the prescribed changes from **step 6**,compile the code and make sure no errors to be found during the compilation.
 * Next upload the code with Arduino IDE and restart the module once again after uploading completed. 
 * For doing `publish` and `subscribe`refer the last page of **IBM_WATSON.pdf** documentation and enjoy 😃 !!.
-* Output debug can be seen in serial monitor with 9600 baudrate [mentioned in document]:  
+* Output debug can be seen in serial monitor with `9600`baudrate [refer the document]:  
 
 for `publish`   :
   
