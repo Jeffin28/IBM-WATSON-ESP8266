@@ -24,7 +24,7 @@ in `global.h`:
 **Provide your ssid and password of WIFI router here:**
 
 <p align="center">
-  <img src="IMG/Screenshot%20(49).png" width="700" align="center">
+  <img src="IMG/Screenshot%20(49).png" width="1000" align="center">
 </p 
   
 in `ibm.cpp`:   
@@ -32,9 +32,22 @@ in `ibm.cpp`:
 **Please enter Organization ID (Bluemix ID), Device type and ID, Authentication token here from step 8.Don’t change any other options below it:**
 
 <p align="center">
-  <img src="IMG/Screenshot%20(50).png" width="700" align="center">
+  <img src="IMG/Screenshot%20(50).png" width="1000" align="center">
 </p 
 
-* After the prescribed changes from **step 6**,compile the code and make sure no errors to be found during the compilaation.
+* After the prescribed changes from **step 6**,compile the code and make sure no errors to be found during the compilation.
 * Next upload the code with Arduino IDE and restart the module once again after uploading completed. 
-* For doing `publish` and `subscribe`refer the last page of **IBM_WATSON.pdf** documentation and enjoy 😃 !!. 
+* For doing `publish` and `subscribe`refer the last page of **IBM_WATSON.pdf** documentation and enjoy 😃 !!.
+* Output debug can be seen in serial monitor with 9600 baudrate [mentioned in document]:  
+
+for `publish`   :
+  
+<p align="center">
+<img src="IMG/Screenshot%20(52).png" width="900" align="center">
+</p 
+  
+for `subscribe` : 
+  
+<p align="center">
+<img src="IMG/Screenshot%20(47).png" width="900" align="center">
+</p 
