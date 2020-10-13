@@ -35,7 +35,7 @@ in `ibm.cpp`:
   <img src="IMG/Screenshot%20(50).png" width="700" align="center">
 </p 
 
-* After the prescribed changes from **step 6**,compile the code and make sure no errors to be found during the compilation.
+* After the prescribed changes from **step 6**,compile the code.
 * Next upload the code with Arduino IDE and restart the module once again after uploading completed.
 * I have tested in esp8266 core version `2.4.2`.
 * For doing `publish` and `subscribe`refer the last page of **IBM_WATSON.pdf** documentation and enjoy 😃 !!.
