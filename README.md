@@ -14,7 +14,7 @@
 ### Steps :
 1. Download the repo.
 2. For those who have already created a `ibm watson` console [Click here For ibm login](https://cloud.ibm.com/login).
-3. **For who those who doesn't have ibm console 😇** open the **DOC** folder for ibm console creation and read the document __IBM_WATSON__.pdf carefully and do it 👍.
+3. **For those who doesn't have ibm console 😇** open the **DOC** folder for ibm console creation and read the document __IBM_WATSON__.pdf carefully and do it 👍.
 4. Open **LIB** folder then place the `ArduinoJson`(5.13.5) and `PubSubClient`(2.7.0) folders into your arduino local dierectory folder (`libraries`) from the downloaded repo.
 4. After the console creation and library allocation move on for source code side.It can be found in **CODE** folder. 
 3. We need to change credentials in **global.h** and **ibm.cpp** before the code simulation so open the `CODE` folder
